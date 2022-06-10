@@ -1,0 +1,2195 @@
+{"chapters":[
+  {
+    "id": "2",
+    "english": "Chapter 1",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 1",
+    "sentenses": [
+      {
+        "id": "8",
+        "chapter_id": "2",
+        "english": "Please give me your hand.",
+        "hindi": "कृपया मुझे अपना हाथ दें।"
+      },
+      {
+        "id": "9",
+        "chapter_id": "2",
+        "english": "Get out of my sight.",
+        "hindi": "मेरी दृष्टि से बाहर जाओ"
+      },
+      {
+        "id": "10",
+        "chapter_id": "2",
+        "english": "I did not understand.",
+        "hindi": "मई कुछ समझ नहीं"
+      },
+      {
+        "id": "11",
+        "chapter_id": "2",
+        "english": "What do you mean?",
+        "hindi": "आपका क्या मतलब है?"
+      },
+      {
+        "id": "12",
+        "chapter_id": "2",
+        "english": "What are you talking about?",
+        "hindi": "तुम्हारी किस बारे में बोलने की इच्छा थी?"
+      },
+      {
+        "id": "13",
+        "chapter_id": "2",
+        "english": "Could you stay away from my stuff?",
+        "hindi": "क्या तुम मेरे सामान से दूर रह सकते हो?"
+      },
+      {
+        "id": "14",
+        "chapter_id": "2",
+        "english": "I am sorry.",
+        "hindi": "मैं माफी चाहता हूं"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "english": "Chapter 2",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 2",
+    "sentenses": [
+      {
+        "id": "15",
+        "chapter_id": "3",
+        "english": "I am feeling tired today",
+        "hindi": "मुझे आज थकान महसूस हो रही है"
+      },
+      {
+        "id": "16",
+        "chapter_id": "3",
+        "english": "It\u2019s none of your business.",
+        "hindi": "इससे आपका कोई मतलब नहीं।"
+      },
+      {
+        "id": "17",
+        "chapter_id": "3",
+        "english": "I don\u2019t know.",
+        "hindi": "मुझे नहीं पता"
+      },
+      {
+        "id": "18",
+        "chapter_id": "3",
+        "english": "We both like each other.",
+        "hindi": "हम दोनों एक दूसरे को पसंद करते हैं"
+      },
+      {
+        "id": "19",
+        "chapter_id": "3",
+        "english": "Come quickly.",
+        "hindi": "जल्दी आओ"
+      },
+      {
+        "id": "20",
+        "chapter_id": "3",
+        "english": "Talk to you later.",
+        "hindi": "बाद में बात"
+      },
+      {
+        "id": "21",
+        "chapter_id": "3",
+        "english": "Thank You very much.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "english": "Chapter 3",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 3",
+    "sentenses": [
+      {
+        "id": "22",
+        "chapter_id": "4",
+        "english": "What is your problem?",
+        "hindi": null
+      },
+      {
+        "id": "23",
+        "chapter_id": "4",
+        "english": "Can I ask you something?",
+        "hindi": null
+      },
+      {
+        "id": "24",
+        "chapter_id": "4",
+        "english": "It was nice meeting you.",
+        "hindi": null
+      },
+      {
+        "id": "25",
+        "chapter_id": "4",
+        "english": "How are you?",
+        "hindi": null
+      },
+      {
+        "id": "26",
+        "chapter_id": "4",
+        "english": "What is going on?",
+        "hindi": null
+      },
+      {
+        "id": "27",
+        "chapter_id": "4",
+        "english": "What are your likes and dislikes?",
+        "hindi": null
+      },
+      {
+        "id": "28",
+        "chapter_id": "4",
+        "english": "Sorry for the inconvenience.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "english": "Chapter 4",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 4",
+    "sentenses": [
+      {
+        "id": "29",
+        "chapter_id": "5",
+        "english": "What can I do for you?",
+        "hindi": null
+      },
+      {
+        "id": "30",
+        "chapter_id": "5",
+        "english": "Will you please help me with this?",
+        "hindi": null
+      },
+      {
+        "id": "31",
+        "chapter_id": "5",
+        "english": "This is not a joke.",
+        "hindi": null
+      },
+      {
+        "id": "32",
+        "chapter_id": "5",
+        "english": "Stop kidding.",
+        "hindi": null
+      },
+      {
+        "id": "33",
+        "chapter_id": "5",
+        "english": "What is happening here?",
+        "hindi": null
+      },
+      {
+        "id": "34",
+        "chapter_id": "5",
+        "english": "Everything is fine.",
+        "hindi": null
+      },
+      {
+        "id": "35",
+        "chapter_id": "5",
+        "english": "Did you get my point?",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "english": "Chapter 5",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 5",
+    "sentenses": [
+      {
+        "id": "36",
+        "chapter_id": "6",
+        "english": "What do you want from me?",
+        "hindi": null
+      },
+      {
+        "id": "37",
+        "chapter_id": "6",
+        "english": "How old are you?",
+        "hindi": null
+      },
+      {
+        "id": "38",
+        "chapter_id": "6",
+        "english": "Where is your office?",
+        "hindi": null
+      },
+      {
+        "id": "39",
+        "chapter_id": "6",
+        "english": "Get ready to go to school.",
+        "hindi": null
+      },
+      {
+        "id": "40",
+        "chapter_id": "6",
+        "english": "I will try my level best.",
+        "hindi": null
+      },
+      {
+        "id": "41",
+        "chapter_id": "6",
+        "english": "Are you joining us?",
+        "hindi": null
+      },
+      {
+        "id": "42",
+        "chapter_id": "6",
+        "english": "I am very pleased to meet you.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "english": "Chapter 6",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 6",
+    "sentenses": [
+      {
+        "id": "43",
+        "chapter_id": "7",
+        "english": "You are my responsibility.",
+        "hindi": null
+      },
+      {
+        "id": "44",
+        "chapter_id": "7",
+        "english": "This is not fair.",
+        "hindi": null
+      },
+      {
+        "id": "45",
+        "chapter_id": "7",
+        "english": "What are you doing today?",
+        "hindi": null
+      },
+      {
+        "id": "46",
+        "chapter_id": "7",
+        "english": "Please say something.",
+        "hindi": null
+      },
+      {
+        "id": "47",
+        "chapter_id": "7",
+        "english": "I will come again.",
+        "hindi": null
+      },
+      {
+        "id": "48",
+        "chapter_id": "7",
+        "english": "What would you like to have?",
+        "hindi": null
+      },
+      {
+        "id": "49",
+        "chapter_id": "7",
+        "english": "Thank you for inviting us.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "english": "Chapter 7",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 7",
+    "sentenses": [
+      {
+        "id": "50",
+        "chapter_id": "8",
+        "english": "It\u2019s my pleasure.",
+        "hindi": null
+      },
+      {
+        "id": "51",
+        "chapter_id": "8",
+        "english": "Thank you for the advice.",
+        "hindi": null
+      },
+      {
+        "id": "52",
+        "chapter_id": "8",
+        "english": "Many happy returns of the day.",
+        "hindi": null
+      },
+      {
+        "id": "53",
+        "chapter_id": "8",
+        "english": "Happy birthday!",
+        "hindi": null
+      },
+      {
+        "id": "54",
+        "chapter_id": "8",
+        "english": "I wish you a happy married life.",
+        "hindi": null
+      },
+      {
+        "id": "55",
+        "chapter_id": "8",
+        "english": "Please be seated.",
+        "hindi": null
+      },
+      {
+        "id": "56",
+        "chapter_id": "8",
+        "english": "I\u2019m on my way.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "english": "Chapter 8",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 8",
+    "sentenses": [
+      {
+        "id": "57",
+        "chapter_id": "9",
+        "english": "When will you reach?",
+        "hindi": null
+      },
+      {
+        "id": "58",
+        "chapter_id": "9",
+        "english": "Nice to meet you.",
+        "hindi": null
+      },
+      {
+        "id": "59",
+        "chapter_id": "9",
+        "english": "Is everything alright?",
+        "hindi": null
+      },
+      {
+        "id": "60",
+        "chapter_id": "9",
+        "english": "Hope to see you next time.",
+        "hindi": null
+      },
+      {
+        "id": "61",
+        "chapter_id": "9",
+        "english": "Do you speak English?",
+        "hindi": null
+      },
+      {
+        "id": "62",
+        "chapter_id": "9",
+        "english": "You are getting late for school.",
+        "hindi": null
+      },
+      {
+        "id": "63",
+        "chapter_id": "9",
+        "english": "I missed my school bus.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "english": "Chapter 9",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 9",
+    "sentenses": [
+      {
+        "id": "64",
+        "chapter_id": "10",
+        "english": "Who is your class teacher?",
+        "hindi": null
+      },
+      {
+        "id": "65",
+        "chapter_id": "10",
+        "english": "Please clean the board.",
+        "hindi": null
+      },
+      {
+        "id": "66",
+        "chapter_id": "10",
+        "english": "Read the sentences carefully.",
+        "hindi": null
+      },
+      {
+        "id": "67",
+        "chapter_id": "10",
+        "english": "What is your favorite subject?",
+        "hindi": null
+      },
+      {
+        "id": "68",
+        "chapter_id": "10",
+        "english": "Who is your favorite teacher?",
+        "hindi": null
+      },
+      {
+        "id": "69",
+        "chapter_id": "10",
+        "english": "I have completed my homework.",
+        "hindi": null
+      },
+      {
+        "id": "70",
+        "chapter_id": "10",
+        "english": "Improve your handwriting.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "english": "Chapter 10",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 10",
+    "sentenses": [
+      {
+        "id": "71",
+        "chapter_id": "11",
+        "english": "Why are you late?",
+        "hindi": null
+      },
+      {
+        "id": "72",
+        "chapter_id": "11",
+        "english": "What is your contact number?",
+        "hindi": null
+      },
+      {
+        "id": "73",
+        "chapter_id": "11",
+        "english": "Could you show me your answer sheet?",
+        "hindi": null
+      },
+      {
+        "id": "74",
+        "chapter_id": "11",
+        "english": "I appreciate it.",
+        "hindi": null
+      },
+      {
+        "id": "75",
+        "chapter_id": "11",
+        "english": "Do you agree with me?",
+        "hindi": null
+      },
+      {
+        "id": "76",
+        "chapter_id": "11",
+        "english": "Do you know what I mean?",
+        "hindi": null
+      },
+      {
+        "id": "77",
+        "chapter_id": "11",
+        "english": "It was nice to talk with you.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "english": "Chapter 11",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 11",
+    "sentenses": [
+      {
+        "id": "78",
+        "chapter_id": "12",
+        "english": "I made it.",
+        "hindi": null
+      },
+      {
+        "id": "79",
+        "chapter_id": "12",
+        "english": "I feel sad for your loss.",
+        "hindi": null
+      },
+      {
+        "id": "80",
+        "chapter_id": "12",
+        "english": "Let\u2019s celebrate!",
+        "hindi": null
+      },
+      {
+        "id": "81",
+        "chapter_id": "12",
+        "english": "What do you like the most?",
+        "hindi": null
+      },
+      {
+        "id": "82",
+        "chapter_id": "12",
+        "english": "Do not disturb!",
+        "hindi": null
+      },
+      {
+        "id": "83",
+        "chapter_id": "12",
+        "english": "Try to open this door.",
+        "hindi": null
+      },
+      {
+        "id": "84",
+        "chapter_id": "12",
+        "english": "I read books.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "english": "Chapter 12",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 12",
+    "sentenses": [
+      {
+        "id": "85",
+        "chapter_id": "13",
+        "english": "I do not want to know anything.",
+        "hindi": null
+      },
+      {
+        "id": "86",
+        "chapter_id": "13",
+        "english": "Drive carefully.",
+        "hindi": null
+      },
+      {
+        "id": "87",
+        "chapter_id": "13",
+        "english": "I love to play video games.",
+        "hindi": null
+      },
+      {
+        "id": "88",
+        "chapter_id": "13",
+        "english": "Go slow from the crowd.",
+        "hindi": null
+      },
+      {
+        "id": "89",
+        "chapter_id": "13",
+        "english": "This is your updated version.",
+        "hindi": null
+      },
+      {
+        "id": "90",
+        "chapter_id": "13",
+        "english": "The sun rises from the east.",
+        "hindi": null
+      },
+      {
+        "id": "91",
+        "chapter_id": "13",
+        "english": "We cook everyday",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "english": "Chapter 13",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 13",
+    "sentenses": [
+      {
+        "id": "92",
+        "chapter_id": "14",
+        "english": "Daily exercise makes you fit and healthy.",
+        "hindi": null
+      },
+      {
+        "id": "93",
+        "chapter_id": "14",
+        "english": "Have a nice day.",
+        "hindi": null
+      },
+      {
+        "id": "94",
+        "chapter_id": "14",
+        "english": "Excuse me!",
+        "hindi": null
+      },
+      {
+        "id": "95",
+        "chapter_id": "14",
+        "english": "Stop crying.",
+        "hindi": null
+      },
+      {
+        "id": "96",
+        "chapter_id": "14",
+        "english": "Are you fooling me?",
+        "hindi": null
+      },
+      {
+        "id": "97",
+        "chapter_id": "14",
+        "english": "Could you give me some money?",
+        "hindi": null
+      },
+      {
+        "id": "98",
+        "chapter_id": "14",
+        "english": "Girls do not want to stay in the gum.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "english": "Chapter 14",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 14",
+    "sentenses": [
+      {
+        "id": "99",
+        "chapter_id": "15",
+        "english": "She wakes early in the morning.",
+        "hindi": null
+      },
+      {
+        "id": "100",
+        "chapter_id": "15",
+        "english": "He sleeps in the afternoon.",
+        "hindi": null
+      },
+      {
+        "id": "101",
+        "chapter_id": "15",
+        "english": "How can I help you?",
+        "hindi": null
+      },
+      {
+        "id": "103",
+        "chapter_id": "15",
+        "english": "Hello Uncle!",
+        "hindi": null
+      },
+      {
+        "id": "104",
+        "chapter_id": "15",
+        "english": "May God bless you!",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "english": "Chapter 15",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 15",
+    "sentenses": [
+      {
+        "id": "106",
+        "chapter_id": "16",
+        "english": "Excuse me.",
+        "hindi": null
+      },
+      {
+        "id": "107",
+        "chapter_id": "16",
+        "english": "I am sorry!",
+        "hindi": null
+      },
+      {
+        "id": "109",
+        "chapter_id": "16",
+        "english": "That is alright.",
+        "hindi": null
+      },
+      {
+        "id": "112",
+        "chapter_id": "16",
+        "english": "I am on the way.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "english": "Chapter 16",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 16",
+    "sentenses": [
+      {
+        "id": "114",
+        "chapter_id": "17",
+        "english": "What are you doing?",
+        "hindi": null
+      },
+      {
+        "id": "115",
+        "chapter_id": "17",
+        "english": "Anything else.",
+        "hindi": null
+      },
+      {
+        "id": "116",
+        "chapter_id": "17",
+        "english": "Stop Kidding!",
+        "hindi": null
+      },
+      {
+        "id": "117",
+        "chapter_id": "17",
+        "english": "Please keep quiet!",
+        "hindi": null
+      },
+      {
+        "id": "118",
+        "chapter_id": "17",
+        "english": "Pleased to meet you!",
+        "hindi": null
+      },
+      {
+        "id": "119",
+        "chapter_id": "17",
+        "english": "Bye, See you again!",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "english": "Chapter 17",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 17",
+    "sentenses": [
+      {
+        "id": "120",
+        "chapter_id": "18",
+        "english": "As you please.",
+        "hindi": null
+      },
+      {
+        "id": "121",
+        "chapter_id": "18",
+        "english": "How dare you say that!",
+        "hindi": null
+      },
+      {
+        "id": "122",
+        "chapter_id": "18",
+        "english": "Can you please repeat that?",
+        "hindi": null
+      },
+      {
+        "id": "123",
+        "chapter_id": "18",
+        "english": "Hurrah! I have won!",
+        "hindi": null
+      },
+      {
+        "id": "124",
+        "chapter_id": "18",
+        "english": "What an idea!",
+        "hindi": null
+      },
+      {
+        "id": "125",
+        "chapter_id": "18",
+        "english": "Thanks for this honor.",
+        "hindi": null
+      },
+      {
+        "id": "126",
+        "chapter_id": "18",
+        "english": "No, not at all.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "english": "Chapter 18",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 18",
+    "sentenses": [
+      {
+        "id": "127",
+        "chapter_id": "19",
+        "english": "That is too much.",
+        "hindi": null
+      },
+      {
+        "id": "128",
+        "chapter_id": "19",
+        "english": "Doesn\u2019t matter.",
+        "hindi": null
+      },
+      {
+        "id": "129",
+        "chapter_id": "19",
+        "english": "Walk slowly.",
+        "hindi": null
+      },
+      {
+        "id": "130",
+        "chapter_id": "19",
+        "english": "Mind your own business.",
+        "hindi": null
+      },
+      {
+        "id": "131",
+        "chapter_id": "19",
+        "english": "Think before you speak.",
+        "hindi": null
+      },
+      {
+        "id": "132",
+        "chapter_id": "19",
+        "english": "I love you, mummy.",
+        "hindi": null
+      },
+      {
+        "id": "133",
+        "chapter_id": "19",
+        "english": "Could you bring me a glass of water.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "english": "Chapter 19",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 19",
+    "sentenses": [
+      {
+        "id": "134",
+        "chapter_id": "20",
+        "english": "Leave me alone.",
+        "hindi": null
+      },
+      {
+        "id": "135",
+        "chapter_id": "20",
+        "english": "I will get up early in the morning.",
+        "hindi": null
+      },
+      {
+        "id": "136",
+        "chapter_id": "20",
+        "english": "She is not my cousin sister.",
+        "hindi": null
+      },
+      {
+        "id": "137",
+        "chapter_id": "20",
+        "english": "Where is a father?",
+        "hindi": null
+      },
+      {
+        "id": "138",
+        "chapter_id": "20",
+        "english": "They are my friends.",
+        "hindi": null
+      },
+      {
+        "id": "139",
+        "chapter_id": "20",
+        "english": "I am going to the playground.",
+        "hindi": null
+      },
+      {
+        "id": "140",
+        "chapter_id": "20",
+        "english": "It is very hot today. Isn\u2019t it?",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "english": "Chapter 20",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 20",
+    "sentenses": [
+      {
+        "id": "141",
+        "chapter_id": "21",
+        "english": "I want more money.",
+        "hindi": null
+      },
+      {
+        "id": "142",
+        "chapter_id": "21",
+        "english": "I am sick.",
+        "hindi": null
+      },
+      {
+        "id": "143",
+        "chapter_id": "21",
+        "english": "I remember everything.",
+        "hindi": null
+      },
+      {
+        "id": "144",
+        "chapter_id": "21",
+        "english": "Have a heart.",
+        "hindi": null
+      },
+      {
+        "id": "145",
+        "chapter_id": "21",
+        "english": "Don\u2019t cut jokes.",
+        "hindi": null
+      },
+      {
+        "id": "146",
+        "chapter_id": "21",
+        "english": "Did you miss your bus?",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "english": "Chapter 21",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 21",
+    "sentenses": [
+      {
+        "id": "148",
+        "chapter_id": "22",
+        "english": "I just made it",
+        "hindi": null
+      },
+      {
+        "id": "150",
+        "chapter_id": "22",
+        "english": "I apologize.",
+        "hindi": null
+      },
+      {
+        "id": "151",
+        "chapter_id": "22",
+        "english": "Thank you mummy, bye.",
+        "hindi": null
+      },
+      {
+        "id": "152",
+        "chapter_id": "22",
+        "english": "God bless you.",
+        "hindi": null
+      },
+      {
+        "id": "153",
+        "chapter_id": "22",
+        "english": "I do not understand.",
+        "hindi": null
+      },
+      {
+        "id": "154",
+        "chapter_id": "22",
+        "english": "Whatever he says is not true.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "english": "Chapter 22",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 22",
+    "sentenses": [
+      {
+        "id": "155",
+        "chapter_id": "23",
+        "english": "Don\u2019t be so childish.",
+        "hindi": null
+      },
+      {
+        "id": "157",
+        "chapter_id": "23",
+        "english": "That\u2019s so kind of you.",
+        "hindi": null
+      },
+      {
+        "id": "159",
+        "chapter_id": "23",
+        "english": "I beg your pardon.",
+        "hindi": null
+      },
+      {
+        "id": "160",
+        "chapter_id": "23",
+        "english": "I\u2019m at the office.",
+        "hindi": null
+      },
+      {
+        "id": "161",
+        "chapter_id": "23",
+        "english": "His words have weight.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "english": "Chapter 23",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 23",
+    "sentenses": [
+      {
+        "id": "162",
+        "chapter_id": "24",
+        "english": "Would you please speak slowly?",
+        "hindi": null
+      },
+      {
+        "id": "164",
+        "chapter_id": "24",
+        "english": "Rod is the logic of fools.",
+        "hindi": null
+      },
+      {
+        "id": "165",
+        "chapter_id": "24",
+        "english": "A crease is formed on the cloth.",
+        "hindi": null
+      },
+      {
+        "id": "166",
+        "chapter_id": "24",
+        "english": "I shall reach by 5.30 train.",
+        "hindi": null
+      },
+      {
+        "id": "168",
+        "chapter_id": "24",
+        "english": "It\u2019s very thoughtful of you.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "english": "Chapter 24",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 24",
+    "sentenses": [
+      {
+        "id": "169",
+        "chapter_id": "25",
+        "english": "The temperature will come down tomorrow.",
+        "hindi": null
+      },
+      {
+        "id": "170",
+        "chapter_id": "25",
+        "english": "Have a good trip.",
+        "hindi": null
+      },
+      {
+        "id": "171",
+        "chapter_id": "25",
+        "english": "Do you understand me?",
+        "hindi": null
+      },
+      {
+        "id": "172",
+        "chapter_id": "25",
+        "english": "What nonsense!",
+        "hindi": null
+      },
+      {
+        "id": "174",
+        "chapter_id": "25",
+        "english": "How can I go to the town center?",
+        "hindi": null
+      },
+      {
+        "id": "175",
+        "chapter_id": "25",
+        "english": "He has a nasal accent.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "english": "Chapter 25",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 25",
+    "sentenses": [
+      {
+        "id": "177",
+        "chapter_id": "26",
+        "english": "I am busy at the moment.",
+        "hindi": null
+      },
+      {
+        "id": "178",
+        "chapter_id": "26",
+        "english": "The soil of that place is fertile.",
+        "hindi": null
+      },
+      {
+        "id": "181",
+        "chapter_id": "26",
+        "english": "Hurry up! otherwise, you will miss the train.",
+        "hindi": null
+      },
+      {
+        "id": "182",
+        "chapter_id": "26",
+        "english": "How was your weekend?",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "english": "Chapter 26",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 26",
+    "sentenses": [
+      {
+        "id": "183",
+        "chapter_id": "27",
+        "english": "What do you want?",
+        "hindi": null
+      },
+      {
+        "id": "184",
+        "chapter_id": "27",
+        "english": "Please write down this address.",
+        "hindi": null
+      },
+      {
+        "id": "185",
+        "chapter_id": "27",
+        "english": "No, I don\u2019t want.",
+        "hindi": null
+      },
+      {
+        "id": "186",
+        "chapter_id": "27",
+        "english": "It is a strange thing.",
+        "hindi": null
+      },
+      {
+        "id": "188",
+        "chapter_id": "27",
+        "english": "I\u2019m sorry to interrupt you.",
+        "hindi": null
+      },
+      {
+        "id": "189",
+        "chapter_id": "27",
+        "english": "Will you go there or shall I?",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "english": "Chapter 27",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 27",
+    "sentenses": [
+      {
+        "id": "190",
+        "chapter_id": "28",
+        "english": "How can I go to the city?",
+        "hindi": null
+      },
+      {
+        "id": "191",
+        "chapter_id": "28",
+        "english": "Do me a favor?",
+        "hindi": null
+      },
+      {
+        "id": "192",
+        "chapter_id": "28",
+        "english": "I like fairly hot tea.",
+        "hindi": null
+      },
+      {
+        "id": "194",
+        "chapter_id": "28",
+        "english": "Can you turn the volume up?",
+        "hindi": null
+      },
+      {
+        "id": "195",
+        "chapter_id": "28",
+        "english": "What do you think?",
+        "hindi": null
+      },
+      {
+        "id": "196",
+        "chapter_id": "28",
+        "english": "What did you succeed in?",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "english": "Chapter 28",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 28",
+    "sentenses": [
+      {
+        "id": "198",
+        "chapter_id": "29",
+        "english": "Your name is on the list.",
+        "hindi": null
+      },
+      {
+        "id": "199",
+        "chapter_id": "29",
+        "english": "Not the least!",
+        "hindi": null
+      },
+      {
+        "id": "201",
+        "chapter_id": "29",
+        "english": "The advantages of this are many.",
+        "hindi": null
+      },
+      {
+        "id": "202",
+        "chapter_id": "29",
+        "english": "A lovely day, isn\u2019t it?",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "english": "Chapter 29",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 29",
+    "sentenses": [
+      {
+        "id": "205",
+        "chapter_id": "30",
+        "english": "You\u2019re driving too fast.",
+        "hindi": null
+      },
+      {
+        "id": "206",
+        "chapter_id": "30",
+        "english": "Have a good weekend.",
+        "hindi": null
+      },
+      {
+        "id": "207",
+        "chapter_id": "30",
+        "english": "I don\u2019t like tall talks.",
+        "hindi": null
+      },
+      {
+        "id": "209",
+        "chapter_id": "30",
+        "english": "I\u2019m on a diet",
+        "hindi": null
+      },
+      {
+        "id": "210",
+        "chapter_id": "30",
+        "english": "He tells a lie.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "english": "Chapter 30",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 30",
+    "sentenses": [
+      {
+        "id": "212",
+        "chapter_id": "31",
+        "english": "May I go out please?",
+        "hindi": null
+      },
+      {
+        "id": "213",
+        "chapter_id": "31",
+        "english": "After lunch, we will go to the library.",
+        "hindi": null
+      },
+      {
+        "id": "214",
+        "chapter_id": "31",
+        "english": "Could you give me a pen.",
+        "hindi": null
+      },
+      {
+        "id": "215",
+        "chapter_id": "31",
+        "english": "May I come in sir!",
+        "hindi": null
+      },
+      {
+        "id": "216",
+        "chapter_id": "31",
+        "english": "Good evening teacher.",
+        "hindi": null
+      },
+      {
+        "id": "217",
+        "chapter_id": "31",
+        "english": "Can I go to the toilet?",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "english": "Chapter 31",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 31",
+    "sentenses": [
+      {
+        "id": "218",
+        "chapter_id": "32",
+        "english": "Mam, I haven\u2019t done my homework.",
+        "hindi": null
+      },
+      {
+        "id": "219",
+        "chapter_id": "32",
+        "english": "Sorry, for being late.",
+        "hindi": null
+      },
+      {
+        "id": "221",
+        "chapter_id": "32",
+        "english": "You will not be able to deal with him.",
+        "hindi": null
+      },
+      {
+        "id": "223",
+        "chapter_id": "32",
+        "english": "I have a lot to talk about.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "english": "Chapter 32",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 32",
+    "sentenses": [
+      {
+        "id": "225",
+        "chapter_id": "33",
+        "english": "Please come as soon as possible.",
+        "hindi": null
+      },
+      {
+        "id": "226",
+        "chapter_id": "33",
+        "english": "How are you today?",
+        "hindi": null
+      },
+      {
+        "id": "227",
+        "chapter_id": "33",
+        "english": "Is the last lesson in English?",
+        "hindi": null
+      },
+      {
+        "id": "228",
+        "chapter_id": "33",
+        "english": "I am sorry, I didn\u2019t hear.",
+        "hindi": null
+      },
+      {
+        "id": "229",
+        "chapter_id": "33",
+        "english": "Do you have a stapler?",
+        "hindi": null
+      },
+      {
+        "id": "230",
+        "chapter_id": "33",
+        "english": "I don\u2019t understand.",
+        "hindi": null
+      },
+      {
+        "id": "231",
+        "chapter_id": "33",
+        "english": "May, I have a pencil please.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "english": "Chapter 33",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 33",
+    "sentenses": [
+      {
+        "id": "232",
+        "chapter_id": "34",
+        "english": "Good morning everybody!",
+        "hindi": null
+      },
+      {
+        "id": "233",
+        "chapter_id": "34",
+        "english": "Let\u2019s begin our lesson now.",
+        "hindi": null
+      },
+      {
+        "id": "234",
+        "chapter_id": "34",
+        "english": "Put your books away.",
+        "hindi": null
+      },
+      {
+        "id": "235",
+        "chapter_id": "34",
+        "english": "Prepare the next chapter for Tuesday.",
+        "hindi": null
+      },
+      {
+        "id": "238",
+        "chapter_id": "34",
+        "english": "Are you lying.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "english": "Chapter 34",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 34",
+    "sentenses": [
+      {
+        "id": "239",
+        "chapter_id": "35",
+        "english": "Don\u2019t abuse him.",
+        "hindi": null
+      },
+      {
+        "id": "240",
+        "chapter_id": "35",
+        "english": "Are the books put in the bag?",
+        "hindi": null
+      },
+      {
+        "id": "241",
+        "chapter_id": "35",
+        "english": "Please sharp the pencil.",
+        "hindi": null
+      },
+      {
+        "id": "242",
+        "chapter_id": "35",
+        "english": "Our school has a clean floor.",
+        "hindi": null
+      },
+      {
+        "id": "243",
+        "chapter_id": "35",
+        "english": "Who is your teacher?",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "english": "Chapter 35",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 35",
+    "sentenses": [
+      {
+        "id": "246",
+        "chapter_id": "36",
+        "english": "I cannot agree with your opinions.",
+        "hindi": null
+      },
+      {
+        "id": "248",
+        "chapter_id": "36",
+        "english": "Anything else?",
+        "hindi": null
+      },
+      {
+        "id": "249",
+        "chapter_id": "36",
+        "english": "Stop making such a noise!",
+        "hindi": null
+      },
+      {
+        "id": "250",
+        "chapter_id": "36",
+        "english": "Walk carefully.",
+        "hindi": null
+      },
+      {
+        "id": "252",
+        "chapter_id": "36",
+        "english": "How do you feel?",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "english": "Chapter 36",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 36",
+    "sentenses": [
+      {
+        "id": "253",
+        "chapter_id": "37",
+        "english": "I am very strict on this matter.",
+        "hindi": null
+      },
+      {
+        "id": "255",
+        "chapter_id": "37",
+        "english": "It has to be done.",
+        "hindi": null
+      },
+      {
+        "id": "257",
+        "chapter_id": "37",
+        "english": "All my calculations went wrong.",
+        "hindi": null
+      },
+      {
+        "id": "258",
+        "chapter_id": "37",
+        "english": "He scored a goal in the match.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "english": "Chapter 37",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 37",
+    "sentenses": [
+      {
+        "id": "260",
+        "chapter_id": "38",
+        "english": "Forgive me!",
+        "hindi": null
+      },
+      {
+        "id": "261",
+        "chapter_id": "38",
+        "english": "God bless you!",
+        "hindi": null
+      },
+      {
+        "id": "263",
+        "chapter_id": "38",
+        "english": "Come what may!",
+        "hindi": null
+      },
+      {
+        "id": "264",
+        "chapter_id": "38",
+        "english": "Get up early.",
+        "hindi": null
+      },
+      {
+        "id": "265",
+        "chapter_id": "38",
+        "english": "Go and play.",
+        "hindi": null
+      },
+      {
+        "id": "266",
+        "chapter_id": "38",
+        "english": "Listen to me.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "english": "Chapter 38",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 38",
+    "sentenses": [
+      {
+        "id": "267",
+        "chapter_id": "39",
+        "english": "Do you have any homework?",
+        "hindi": null
+      },
+      {
+        "id": "268",
+        "chapter_id": "39",
+        "english": "Have your breakfast.",
+        "hindi": null
+      },
+      {
+        "id": "269",
+        "chapter_id": "39",
+        "english": "What\u2019s going on.",
+        "hindi": null
+      },
+      {
+        "id": "270",
+        "chapter_id": "39",
+        "english": "Comb your hair.",
+        "hindi": null
+      },
+      {
+        "id": "271",
+        "chapter_id": "39",
+        "english": "You may fall down.",
+        "hindi": null
+      },
+      {
+        "id": "272",
+        "chapter_id": "39",
+        "english": "Enjoy yourself.",
+        "hindi": null
+      },
+      {
+        "id": "273",
+        "chapter_id": "39",
+        "english": "See you next time.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "english": "Chapter 39",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 39",
+    "sentenses": [
+      {
+        "id": "274",
+        "chapter_id": "40",
+        "english": "I am Hungary.",
+        "hindi": null
+      },
+      {
+        "id": "275",
+        "chapter_id": "40",
+        "english": "Wash your face.",
+        "hindi": null
+      },
+      {
+        "id": "276",
+        "chapter_id": "40",
+        "english": "Respect your elders.",
+        "hindi": null
+      },
+      {
+        "id": "277",
+        "chapter_id": "40",
+        "english": "Take a bite.",
+        "hindi": null
+      },
+      {
+        "id": "279",
+        "chapter_id": "40",
+        "english": "don,t be afraid.",
+        "hindi": null
+      },
+      {
+        "id": "280",
+        "chapter_id": "40",
+        "english": "Turn off the light.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "english": "Chapter 40",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 40",
+    "sentenses": [
+      {
+        "id": "281",
+        "chapter_id": "41",
+        "english": "Go ahead.",
+        "hindi": null
+      },
+      {
+        "id": "282",
+        "chapter_id": "41",
+        "english": "Turn on the light.",
+        "hindi": null
+      },
+      {
+        "id": "283",
+        "chapter_id": "41",
+        "english": "Prepare the bed.",
+        "hindi": null
+      },
+      {
+        "id": "284",
+        "chapter_id": "41",
+        "english": "It\u2019s ok.",
+        "hindi": null
+      },
+      {
+        "id": "285",
+        "chapter_id": "41",
+        "english": "I agree.",
+        "hindi": null
+      },
+      {
+        "id": "286",
+        "chapter_id": "41",
+        "english": "Get up.",
+        "hindi": null
+      },
+      {
+        "id": "287",
+        "chapter_id": "41",
+        "english": "Ask me.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "english": "Chapter 41",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 41",
+    "sentenses": [
+      {
+        "id": "288",
+        "chapter_id": "42",
+        "english": "Try again.",
+        "hindi": null
+      },
+      {
+        "id": "289",
+        "chapter_id": "42",
+        "english": "So I do.",
+        "hindi": null
+      },
+      {
+        "id": "290",
+        "chapter_id": "42",
+        "english": "Wake up.",
+        "hindi": null
+      },
+      {
+        "id": "291",
+        "chapter_id": "42",
+        "english": "All right",
+        "hindi": null
+      },
+      {
+        "id": "292",
+        "chapter_id": "42",
+        "english": "Bring it.",
+        "hindi": null
+      },
+      {
+        "id": "293",
+        "chapter_id": "42",
+        "english": "Drink water.",
+        "hindi": null
+      },
+      {
+        "id": "294",
+        "chapter_id": "42",
+        "english": "There is no way to go outside.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "english": "Chapter 42",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 42",
+    "sentenses": [
+      {
+        "id": "295",
+        "chapter_id": "43",
+        "english": "Where is the duster?",
+        "hindi": null
+      },
+      {
+        "id": "297",
+        "chapter_id": "43",
+        "english": "Wash your hands.",
+        "hindi": null
+      },
+      {
+        "id": "298",
+        "chapter_id": "43",
+        "english": "Whose kid is this?",
+        "hindi": null
+      },
+      {
+        "id": "301",
+        "chapter_id": "43",
+        "english": "Respect your elders and teachers.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "english": "Chapter 43",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 43",
+    "sentenses": [
+      {
+        "id": "302",
+        "chapter_id": "44",
+        "english": "Put your books down.",
+        "hindi": null
+      },
+      {
+        "id": "303",
+        "chapter_id": "44",
+        "english": "Where is your friend?",
+        "hindi": null
+      },
+      {
+        "id": "304",
+        "chapter_id": "44",
+        "english": "Don\u2019t be late for the class.",
+        "hindi": null
+      },
+      {
+        "id": "305",
+        "chapter_id": "44",
+        "english": "It is not true.",
+        "hindi": null
+      },
+      {
+        "id": "306",
+        "chapter_id": "44",
+        "english": "Go and sleep on your bed.",
+        "hindi": null
+      },
+      {
+        "id": "307",
+        "chapter_id": "44",
+        "english": "Close the window.",
+        "hindi": null
+      },
+      {
+        "id": "308",
+        "chapter_id": "44",
+        "english": "Switch off the Fan.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "english": "Chapter 44",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 44",
+    "sentenses": [
+      {
+        "id": "309",
+        "chapter_id": "45",
+        "english": "Where are my clothes?",
+        "hindi": null
+      },
+      {
+        "id": "310",
+        "chapter_id": "45",
+        "english": "Move forward in the crowd.",
+        "hindi": null
+      },
+      {
+        "id": "311",
+        "chapter_id": "45",
+        "english": "Look at the sky.",
+        "hindi": null
+      },
+      {
+        "id": "312",
+        "chapter_id": "45",
+        "english": "The moon is shining.",
+        "hindi": null
+      },
+      {
+        "id": "313",
+        "chapter_id": "45",
+        "english": "Nobody will go out in the darkness.",
+        "hindi": null
+      },
+      {
+        "id": "314",
+        "chapter_id": "45",
+        "english": "Would you like to be my friend?",
+        "hindi": null
+      },
+      {
+        "id": "315",
+        "chapter_id": "45",
+        "english": "You may fall.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "english": "Chapter 45",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 45",
+    "sentenses": [
+      {
+        "id": "316",
+        "chapter_id": "46",
+        "english": "You have to be calm down.",
+        "hindi": null
+      },
+      {
+        "id": "317",
+        "chapter_id": "46",
+        "english": "I borrowed a book from the library.",
+        "hindi": null
+      },
+      {
+        "id": "318",
+        "chapter_id": "46",
+        "english": "Go and attend the class.",
+        "hindi": null
+      },
+      {
+        "id": "319",
+        "chapter_id": "46",
+        "english": "She is looking towards the car.",
+        "hindi": null
+      },
+      {
+        "id": "320",
+        "chapter_id": "46",
+        "english": "This period is boring.",
+        "hindi": null
+      },
+      {
+        "id": "321",
+        "chapter_id": "46",
+        "english": "Bring the attendance register.",
+        "hindi": null
+      },
+      {
+        "id": "322",
+        "chapter_id": "46",
+        "english": "We are not going anywhere.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "english": "Chapter 46",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 46",
+    "sentenses": [
+      {
+        "id": "323",
+        "chapter_id": "47",
+        "english": "Stop starring him.",
+        "hindi": null
+      },
+      {
+        "id": "324",
+        "chapter_id": "47",
+        "english": "The homework is very easy.",
+        "hindi": null
+      },
+      {
+        "id": "325",
+        "chapter_id": "47",
+        "english": "Which period is going on?",
+        "hindi": null
+      },
+      {
+        "id": "326",
+        "chapter_id": "47",
+        "english": "She is not completing her assignment.",
+        "hindi": null
+      },
+      {
+        "id": "327",
+        "chapter_id": "47",
+        "english": "Get up early in the morning.",
+        "hindi": null
+      },
+      {
+        "id": "328",
+        "chapter_id": "47",
+        "english": "Come inside and sit here.",
+        "hindi": null
+      },
+      {
+        "id": "329",
+        "chapter_id": "47",
+        "english": "Be aware, you may fall asleep.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "english": "Chapter 47",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 47",
+    "sentenses": [
+      {
+        "id": "330",
+        "chapter_id": "48",
+        "english": "I forget my tiffin box at home.",
+        "hindi": null
+      },
+      {
+        "id": "332",
+        "chapter_id": "48",
+        "english": "I come to school by bus.",
+        "hindi": null
+      },
+      {
+        "id": "333",
+        "chapter_id": "48",
+        "english": "Would you please pack your bag properly?",
+        "hindi": null
+      },
+      {
+        "id": "334",
+        "chapter_id": "48",
+        "english": "I am writing an essay.",
+        "hindi": null
+      },
+      {
+        "id": "335",
+        "chapter_id": "48",
+        "english": "Please, give me the piece of paper.",
+        "hindi": null
+      },
+      {
+        "id": "336",
+        "chapter_id": "48",
+        "english": "She is disturbing me.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "english": "Chapter 48",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 48",
+    "sentenses": [
+      {
+        "id": "337",
+        "chapter_id": "49",
+        "english": "I have hung your shirt here.",
+        "hindi": null
+      },
+      {
+        "id": "338",
+        "chapter_id": "49",
+        "english": "Fill in the blanks properly.",
+        "hindi": null
+      },
+      {
+        "id": "339",
+        "chapter_id": "49",
+        "english": "We have to write all the answers.",
+        "hindi": null
+      },
+      {
+        "id": "340",
+        "chapter_id": "49",
+        "english": "Do you want to be successful?",
+        "hindi": null
+      },
+      {
+        "id": "341",
+        "chapter_id": "49",
+        "english": "Listen to your elders.",
+        "hindi": null
+      },
+      {
+        "id": "342",
+        "chapter_id": "49",
+        "english": "Put all the necessary books in a bag.",
+        "hindi": null
+      },
+      {
+        "id": "343",
+        "chapter_id": "49",
+        "english": "Students clean the school ground.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "english": "Chapter 49",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 49",
+    "sentenses": [
+      {
+        "id": "344",
+        "chapter_id": "50",
+        "english": "Stop irritating him.",
+        "hindi": null
+      },
+      {
+        "id": "345",
+        "chapter_id": "50",
+        "english": "Don\u2019t make noise.",
+        "hindi": null
+      },
+      {
+        "id": "346",
+        "chapter_id": "50",
+        "english": "Stop talking in the classroom.",
+        "hindi": null
+      },
+      {
+        "id": "347",
+        "chapter_id": "50",
+        "english": "I want to play with my friends.",
+        "hindi": null
+      },
+      {
+        "id": "348",
+        "chapter_id": "50",
+        "english": "We will get ten days of Christmas Holidays.",
+        "hindi": null
+      },
+      {
+        "id": "349",
+        "chapter_id": "50",
+        "english": "I am getting late for school.",
+        "hindi": null
+      },
+      {
+        "id": "350",
+        "chapter_id": "50",
+        "english": "My father always drops me at school.",
+        "hindi": null
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "english": "Chapter 50",
+    "hindi": "\u0905\u0927\u094d\u092f\u093e\u092f 50",
+    "sentenses": [
+      {
+        "id": "1",
+        "chapter_id": "1",
+        "english": "Good morning!",
+        "hindi": null
+      },
+      {
+        "id": "3",
+        "chapter_id": "1",
+        "english": "Good day to you, Sir!",
+        "hindi": null
+      },
+      {
+        "id": "4",
+        "chapter_id": "1",
+        "english": "He is still not well.",
+        "hindi": null
+      },
+      {
+        "id": "5",
+        "chapter_id": "1",
+        "english": "well done! Keep it up!",
+        "hindi": null
+      },
+      {
+        "id": "6",
+        "chapter_id": "1",
+        "english": "I will call you later.",
+        "hindi": null
+      },
+      {
+        "id": "7",
+        "chapter_id": "1",
+        "english": "I will catch you soon.",
+        "hindi": null
+      }
+    ]
+  }
+]
+}

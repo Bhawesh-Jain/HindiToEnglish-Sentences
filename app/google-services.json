@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "931721735169",
+    "project_id": "hindi-to-english-63f37",
+    "storage_bucket": "hindi-to-english-63f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931721735169:android:8be9a8f64ccf05886a6400",
+        "android_client_info": {
+          "package_name": "com.smtlabs.englishhindisentences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931721735169-vcv53f60sbgp48nrk4lbeoe48h2o1bju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smtlabs.englishhindisentences",
+            "certificate_hash": "08679b3d69a94f59d056f6eda950bdccacaafb3f"
+          }
+        },
+        {
+          "client_id": "931721735169-lj77tuc1f4cr7eera21dgd12l0oncl0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCut1qB9Qnx_V6_g0ogEEFr-ldY1oh-9pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931721735169-lj77tuc1f4cr7eera21dgd12l0oncl0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

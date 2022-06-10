@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/dashboard_parent_drawer"
+    android:layout_height="match_parent"
+    tools:context=".DashboardActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <RelativeLayout
+            android:id="@+id/dashboard_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:background="@color/custom_greenish"
+            app:navigationIcon="@drawable/ic_menu_custom"
+            app:titleTextColor="@color/white">
+
+            <ImageView
+                android:id="@+id/ic_menu_dashboard"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_36sdp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_menu_custom" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_gravity="center"
+                android:fontFamily="@font/lato_regular"
+                android:text="SMT Hindi to English"
+
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="23sp" />
+
+            <ImageView
+                android:id="@+id/ic_share_dashboard"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_36sdp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:padding="10dp"
+                android:src="@drawable/ic_share_custom" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/dashboard_toolbar"
+            android:layout_alignParentBottom="true">
+
+            <RelativeLayout
+                android:layout_width="@dimen/_110sdp"
+                android:layout_height="@dimen/_110sdp"
+                android:id="@+id/dashboard_chapter_list"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/custom_bg_more"
+                android:layout_alignParentStart="true"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:layout_marginStart="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_40sdp" >
+
+                <ImageView
+                    android:id="@+id/chapter_list_ic_dashboard"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_80sdp"
+                    android:padding="@dimen/_10sdp"
+                    android:src="@drawable/book_reader" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/chapter_list_ic_dashboard"
+                    android:text="Chapter List"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_17sdp" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/_110sdp"
+                android:layout_height="@dimen/_110sdp"
+                android:id="@+id/dashboard_dictionary"
+                android:layout_alignParentTop="true"
+                android:background="@drawable/custom_bg_more"
+                android:layout_alignParentEnd="true"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:layout_marginEnd="@dimen/_30sdp"
+                android:layout_marginTop="@dimen/_40sdp" >
+
+                <ImageView
+                    android:id="@+id/dictionary_ic_dashboard"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_80sdp"
+                    android:padding="@dimen/_10sdp"
+                    android:src="@drawable/book_reader" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/dictionary_ic_dashboard"
+                    android:text="Dictionary\nComing Soon"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_12sdp" />
+
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="@dimen/_250sdp"
+        android:layout_height="match_parent"
+        android:id="@+id/nav_menu_dashboard"
+        app:menu="@menu/main"
+        app:itemIconTint="@color/custom_greenish"
+        android:layout_gravity="start"
+        app:itemTextAppearance="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+        app:itemHorizontalPadding="30dp"
+        app:itemVerticalPadding="30dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="bottom"
+            android:layout_gravity="bottom"
+            android:orientation="vertical"
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                android:background="@drawable/custom_bg_menu"
+                android:layout_gravity="bottom"
+                android:orientation="vertical"
+                android:padding="@dimen/_10sdp">
+
+                <GridLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:columnCount="2"
+                    android:rowCount="2">
+
+                    <RelativeLayout
+                        android:id="@+id/flirttime"
+                        android:layout_width="95dp"
+                        android:layout_height="80dp"
+                        android:layout_marginEnd="@dimen/_5sdp">
+
+                        <ImageView
+                            android:id="@+id/drawer_flirtTime"
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:layout_centerHorizontal="true"
+                            android:contentDescription="@string/logo"
+                            android:paddingTop="10dp"
+                            android:src="@drawable/ic_flirttime_logo" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/drawer_flirtTime"
+                            android:layout_alignParentBottom="true"
+                            android:layout_marginBottom="5dp"
+                            android:fontFamily="@font/lato_regular"
+                            android:text="@string/flirt_time"
+                            android:textAlignment="center"
+                            android:textColor="?attr/colorOnSecondary"
+                            android:textSize="16sp" />
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout
+                        android:id="@+id/lekhajokha"
+                        android:layout_width="95dp"
+                        android:layout_height="80dp"
+                        android:layout_gravity="end"
+                        android:layout_marginStart="@dimen/_5sdp">
+
+                        <ImageView
+                            android:id="@+id/drawer_lekha_jokha"
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:layout_centerHorizontal="true"
+                            android:contentDescription="@string/logo"
+                            android:paddingTop="10dp"
+                            android:src="@drawable/ic_lekhajokha_logo" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/drawer_lekha_jokha"
+                            android:layout_alignParentBottom="true"
+                            android:layout_marginBottom="5dp"
+                            android:fontFamily="@font/lato_regular"
+                            android:singleLine="true"
+                            android:text="@string/lekha_jokha"
+                            android:textAlignment="center"
+                            android:textColor="?attr/colorOnSecondary"
+                            android:textSize="16sp" />
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout
+                        android:id="@+id/expensemanager"
+                        android:layout_width="95dp"
+                        android:layout_height="100dp"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:layout_marginEnd="@dimen/_5sdp">
+
+                        <ImageView
+                            android:id="@+id/drawer_expenseManager"
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:layout_centerHorizontal="true"
+                            android:contentDescription="@string/logo"
+                            android:paddingTop="10dp"
+                            android:src="@drawable/ic_expensemanager_logo" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/drawer_expenseManager"
+                            android:layout_alignParentBottom="true"
+                            android:fontFamily="@font/lato_regular"
+                            android:text="@string/expense_manager"
+                            android:textAlignment="center"
+                            android:textColor="?attr/colorOnSecondary"
+                            android:textSize="16sp" />
+
+                    </RelativeLayout>
+
+
+                    <RelativeLayout
+                        android:id="@+id/secretsetting"
+                        android:layout_width="95dp"
+                        android:layout_height="100dp"
+                        android:layout_gravity="end"
+                        android:layout_marginStart="@dimen/_5sdp"
+                        android:layout_marginTop="@dimen/_5sdp">
+
+                        <ImageView
+                            android:id="@+id/drawer_secretSetting"
+                            android:layout_width="wrap_content"
+                            android:layout_height="50dp"
+                            android:layout_centerHorizontal="true"
+                            android:contentDescription="@string/logo"
+                            android:paddingTop="10dp"
+                            android:src="@drawable/ic_secretsetting_logo" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/drawer_secretSetting"
+                            android:layout_alignParentBottom="true"
+                            android:fontFamily="@font/lato_regular"
+                            android:text="@string/secret_setting"
+                            android:textAlignment="center"
+                            android:textColor="?attr/colorOnSecondary"
+                            android:textSize="16sp" />
+
+                    </RelativeLayout>
+
+
+                </GridLayout>
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/version"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:text="Version 1.0"
+                android:textColor="#AAA7A7"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </com.google.android.material.navigation.NavigationView>
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardCornerRadius="13dp"
+    app:cardUseCompatPadding="true"
+    android:layout_marginHorizontal="8dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/_10sdp"
+    android:id="@+id/reminder_recyclerview_row"
+    tools:ignore="HardcodedText">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:id="@+id/singlerow_reminder_main"
+        android:layout_height="match_parent"
+        android:paddingVertical="@dimen/_10sdp"
+        android:paddingStart="@dimen/_10sdp"
+        android:paddingEnd="@dimen/_5sdp"
+        >
+
+        <TextView
+            android:id="@+id/txt_singlerow_reminder_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_toStartOf="@id/txt_singlerow_reminder_date"
+            android:fontFamily="@font/lato_regular"
+            android:singleLine="true"
+            android:text="@string/fcm_fallback_notification_channel_label"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_13sdp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/txt_singlerow_reminder_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/txt_singlerow_reminder_label"
+            android:layout_alignBottom="@id/txt_singlerow_reminder_label"
+            android:layout_marginStart="@dimen/_3sdp"
+            android:layout_toStartOf="@id/ic_singlerow_reminder_delete"
+            android:fontFamily="@font/lato_regular"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="12 : 00"
+            android:textColor="@color/custom_grey_text"
+            android:textSize="@dimen/_12sdp"
+            android:textStyle="normal" />
+
+
+        <TextView
+            android:id="@+id/txt_singlerow_reminder_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_3sdp"
+            android:layout_toStartOf="@id/txt_singlerow_reminder_time"
+            android:layout_alignTop="@id/txt_singlerow_reminder_label"
+            android:layout_alignBottom="@id/txt_singlerow_reminder_label"
+            android:fontFamily="@font/lato_regular"
+            android:singleLine="true"
+            android:text="10-06-2022"
+            android:textColor="@color/custom_grey_text"
+            android:textSize="@dimen/_12sdp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/txt_singlerow_reminder_daily"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_singlerow_reminder_label"
+            android:layout_alignParentStart="true"
+            android:fontFamily="@font/lato_regular"
+            android:singleLine="true"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:text="Daily"
+            android:textColor="@color/custom_grey_text"
+            android:textSize="@dimen/_12sdp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/txt_singlerow_repeat_days"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/txt_singlerow_reminder_daily"
+            android:layout_marginStart="@dimen/_3sdp"
+            android:layout_toStartOf="@id/ic_singlerow_reminder_delete"
+            android:layout_toEndOf="@id/txt_singlerow_reminder_daily"
+            android:fontFamily="@font/lato_regular"
+            android:singleLine="true"
+            android:text=": Notification"
+            android:textColor="@color/custom_grey_text"
+            android:textSize="@dimen/_12sdp"
+            android:textStyle="normal" />
+
+        <ImageView
+            android:id="@+id/ic_singlerow_reminder_delete"
+            android:layout_width="@dimen/_28sdp"
+            android:layout_height="@dimen/_33sdp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:contentDescription="Delete Icon"
+            android:padding="0dp"
+            android:src="@drawable/ic_delete" />
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

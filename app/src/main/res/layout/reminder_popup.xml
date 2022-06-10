@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingVertical="@dimen/_15sdp"
+    android:paddingHorizontal="@dimen/_3sdp"
+    android:layout_width="wrap_content"
+    android:background="@drawable/custom_bg_reminder_popup"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/_10sdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/title_reminder_popup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@id/reminder_label"
+        android:paddingBottom="@dimen/_5sdp"
+        android:text="Configure Reminder : "
+        android:fontFamily="@font/lato_regular"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_15sdp" />
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_below="@id/title_reminder_popup"
+        android:id="@+id/reminder_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:boxBackgroundMode="outline"
+        app:boxBackgroundColor="#00000000"
+        app:expandedHintEnabled="true"
+        app:hintAnimationEnabled="true"
+        app:boxCornerRadiusBottomEnd="@dimen/_8sdp"
+        app:boxCornerRadiusBottomStart="@dimen/_8sdp"
+        app:boxCornerRadiusTopEnd="@dimen/_8sdp"
+        app:boxCornerRadiusTopStart="@dimen/_8sdp"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        app:hintEnabled="true"
+        app:hintTextColor="@color/custom_grey">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Reminder Label"
+            android:paddingTop="@dimen/_10sdp"
+            android:maxLength="20"
+            android:fontFamily="@font/lato_regular"
+            android:singleLine="true"
+            android:id="@+id/edt_reminder_label"
+            android:textColor="@color/black"
+            android:textColorHint="@color/custom_grey"
+            android:textSize="15sp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <RelativeLayout
+        android:id="@+id/reminder_select_time_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reminder_select_date_container"
+        android:paddingStart="@dimen/_10sdp"
+        android:paddingTop="@dimen/_4sdp"
+        android:paddingEnd="@dimen/_10sdp"
+        android:paddingBottom="@dimen/_4sdp">
+
+        <TextView
+            android:id="@+id/txt_placeholder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:fontFamily="@font/lato_regular"
+            android:padding="@dimen/_3sdp"
+            android:text="Time : "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+        <Button
+            android:id="@+id/btn_reminder_set_time"
+            style="?android:spinnerStyle"
+            android:layout_width="@dimen/_150sdp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:fontFamily="@font/lato_regular"
+            android:layout_toEndOf="@id/txt_placeholder"
+            android:text="Select Time"
+            android:textColor="@color/black" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/reminder_select_date_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reminder_label"
+        android:paddingStart="@dimen/_10sdp"
+        android:paddingTop="@dimen/_4sdp"
+        android:paddingEnd="@dimen/_10sdp"
+        android:paddingBottom="@dimen/_4sdp">
+
+        <TextView
+            android:id="@+id/txt_placeholder1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:fontFamily="@font/lato_regular"
+            android:padding="@dimen/_3sdp"
+            android:text="Date : "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+        <Button
+            android:id="@+id/btn_reminder_set_date"
+            style="?android:spinnerStyle"
+            android:layout_width="@dimen/_150sdp"
+            android:fontFamily="@font/lato_regular"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@id/txt_placeholder1"
+            android:text="Today"
+            android:textColor="@color/black" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/reminder_select_type_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reminder_select_time_container"
+        android:visibility="gone"
+        android:layout_marginVertical="@dimen/_5sdp"
+        android:paddingStart="@dimen/_10sdp"
+        android:paddingTop="@dimen/_4sdp"
+        android:paddingEnd="@dimen/_10sdp"
+        android:paddingBottom="@dimen/_4sdp">
+
+        <TextView
+            android:id="@+id/txt_placeholder2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:padding="@dimen/_3sdp"
+            android:text="Reminder Type : "
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+        <Spinner
+            android:id="@+id/reminder_select_type_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/txt_placeholder2"
+            android:layout_alignBottom="@id/txt_placeholder2"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@id/txt_placeholder2" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/reminder_select_daily_container"
+        android:layout_below="@+id/reminder_select_type_container"
+        android:paddingStart="@dimen/_3sdp"
+        android:paddingEnd="@dimen/_10sdp"
+        android:paddingBottom="@dimen/_4sdp"
+        >
+
+        <CheckBox
+            android:id="@+id/reminder_daily_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/reminder_daily_checkbox"
+            android:layout_alignBottom="@id/reminder_daily_checkbox"
+            android:layout_marginStart="-10dp"
+            android:layout_toEndOf="@id/reminder_daily_checkbox"
+            android:gravity="center_vertical"
+            android:padding="@dimen/_2sdp"
+            android:fontFamily="@font/lato_regular"
+            android:text="Repeat"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@id/reminder_select_day_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_30sdp"
+        android:layout_below="@id/reminder_select_daily_container"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="@dimen/_10sdp"
+        android:background="@drawable/custom_bg_day_select"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingTop="@dimen/_5sdp"
+        android:paddingBottom="@dimen/_5sdp"
+        android:weightSum="7">
+
+        <TextView
+            android:id="@+id/sunday"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/custom_bg_day"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="S"
+            android:textColor="@color/red"
+            android:textSize="@dimen/_13sdp" />
+
+        <TextView
+            android:id="@+id/monday"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/custom_bg_day"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="M"
+            android:textColor="@color/custom_grey"
+            android:textSize="@dimen/_13sdp" />
+
+        <TextView
+            android:id="@+id/tuesday"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/custom_bg_day"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="T"
+            android:textColor="@color/custom_grey"
+            android:textSize="@dimen/_13sdp" />
+
+        <TextView
+            android:id="@+id/wednesday"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/custom_bg_day"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="W"
+            android:textColor="@color/custom_grey"
+            android:textSize="@dimen/_13sdp" />
+
+        <TextView
+            android:id="@+id/thursday"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/custom_bg_day"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="T"
+            android:textColor="@color/custom_grey"
+            android:textSize="@dimen/_13sdp" />
+
+        <TextView
+            android:id="@+id/friday"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/custom_bg_day"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="F"
+            android:textColor="@color/custom_grey"
+            android:textSize="@dimen/_13sdp" />
+
+        <TextView
+            android:id="@+id/saturday"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/custom_bg_day"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="S"
+            android:textColor="@color/custom_grey"
+            android:textSize="@dimen/_13sdp" />
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/reminder_btn_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/reminder_select_day_container"
+        android:paddingStart="@dimen/_10sdp"
+        android:paddingTop="@dimen/_4sdp"
+        android:paddingEnd="@dimen/_10sdp"
+        android:paddingBottom="@dimen/_4sdp">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_reminder_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="@dimen/_25sdp"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:fontFamily="@font/lato_regular"
+            android:background="@drawable/custom_btn_bg_reminder"
+            android:padding="@dimen/_5sdp"
+            android:text="@string/cancel"
+            android:textAllCaps="false"
+            android:textSize="15sp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_reminder_confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/btn_reminder_cancel"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="@dimen/_25sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:background="@drawable/custom_btn_bg_reminder"
+            android:fontFamily="@font/lato_regular"
+            android:text="@string/confirm"
+            android:textAllCaps="false" />
+    </RelativeLayout>
+
+</RelativeLayout>

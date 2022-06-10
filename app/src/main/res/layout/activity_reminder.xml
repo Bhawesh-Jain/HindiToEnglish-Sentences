@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ReminderClasses.ReminderActivity">
+
+    <ImageView
+        android:id="@+id/reminder_background"
+        android:layout_width="@dimen/_250sdp"
+        android:layout_height="@dimen/_250sdp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/ic_alarm" />
+
+    <RelativeLayout
+        android:id="@+id/my_toolbar_reminder"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/custom_greenish"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ic_back_reminder"
+            android:layout_width="30dp"
+            android:layout_height="60dp"
+            android:layout_centerVertical="true"
+            android:layout_marginHorizontal="10dp"
+            android:src="@drawable/ic_arrow_back_white"
+            android:contentDescription="@string/back_button" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:fontFamily="@font/lato_regular"
+            android:text="Reminders"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            />
+
+        <ImageView
+            android:id="@+id/ic_add_reminder"
+            android:layout_width="30dp"
+            android:layout_height="60dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginHorizontal="10dp"
+            android:contentDescription="Add Button Reminders"
+            android:src="@drawable/ic_add" />
+
+    </RelativeLayout>
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="No Reminders Set Yet"-->
+<!--        android:visibility="visible"-->
+<!--        android:layout_below="@id/my_toolbar_reminder"-->
+<!--        android:id="@+id/txt_reminder_empty"-->
+<!--        android:padding="@dimen/_17sdp"-->
+<!--        />-->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/reminder_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/my_toolbar_reminder"
+        />
+
+</RelativeLayout>

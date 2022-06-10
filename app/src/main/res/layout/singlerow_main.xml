@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    app:cardCornerRadius="13dp"
+    app:cardBackgroundColor="@color/custom_grey"
+    app:cardUseCompatPadding="true"
+    android:layout_marginHorizontal="8dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="90dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:id="@+id/row_main"
+
+        android:layout_height="match_parent"
+        >
+
+        <ImageView
+            android:id="@+id/ic_row_image"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:layout_marginHorizontal="10dp"
+            android:src="@drawable/book_reader"
+            android:contentDescription="@string/chapter_image" />
+
+        <TextView
+            android:id="@+id/txt_row_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:letterSpacing=".02"
+            android:layout_toStartOf="@id/ic_forward_icon"
+            android:layout_toEndOf="@+id/ic_row_image"
+            android:fontFamily="@font/lato_regular"
+            android:paddingHorizontal="10dp"
+            android:text="@string/app_name"
+            android:textColor="@color/black"
+            android:textSize="23sp" />
+
+        <TextView
+            android:id="@+id/txt_row_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_row_header"
+            android:letterSpacing=".02"
+            android:layout_toStartOf="@id/ic_forward_icon"
+            android:layout_toEndOf="@+id/ic_row_image"
+            android:fontFamily="@font/lato_regular"
+            android:paddingHorizontal="10dp"
+            android:singleLine="true"
+            android:text="@string/app_name"
+            android:textColor="@color/custom_grey_text"
+            android:textSize="18sp" />
+
+
+        <ImageView
+            android:id="@+id/ic_forward_icon"
+            android:layout_width="30dp"
+            android:layout_height="20dp"
+            android:layout_marginEnd="10dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/ic_arrow_forward"
+            android:contentDescription="@string/forward_arrow" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

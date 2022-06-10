@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Hindi to English</string>
+
+    <string name="open"></string>
+    <string name="close"></string>
+    <string name="expense_manager">Expense Manager</string>
+    <string name="lekha_jokha">Lekha Jokha</string>
+    <string name="secret_setting">Secret Setting</string>
+    <string name="flirt_time">Flirt Time</string>
+    <string name="more_apps">More Apps</string>
+    <string name="back_button">Back Button</string>
+    <string name="logo">Logo</string>
+    <string name="forward_arrow">Forward Arrow</string>
+    <string name="chapter_image">ChapterImage</string>
+    <string name="msg_subscribed">News topic has been subscribed</string>
+    <string name="msg_subscribe_failed">News topic has been subscribed</string>
+    <string name="daily_reminder">Set this Reminder for Daily</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="today">Today</string>
+
+    <string-array name="reminder_type">
+        <item>Notification</item>
+        <item>Alarm</item>
+    </string-array>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
