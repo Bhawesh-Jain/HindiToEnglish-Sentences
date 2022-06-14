@@ -77,7 +77,7 @@ public class ReminderActivity extends AppCompatActivity implements ReminderMetho
 
         int rq_code = getIntent().getIntExtra("REQUEST_CODE", 100);
 
-        Log.i(TAG, "onCreate: Request Code = "+rq_code);
+        Log.i(TAG, "onCreate: Request Code = " + rq_code);
         if (rq_code == 700){
             Log.d(TAG, "onCreate: From Notification Click");
         }
@@ -128,7 +128,7 @@ public class ReminderActivity extends AppCompatActivity implements ReminderMetho
         if (count != 0){
             binding.reminderBackground.setImageResource(R.drawable.custom_bg_white);
         }
-        else if (count == 0){
+        else {
             binding.reminderBackground.setImageResource(R.drawable.ic_alarm);
         }
 
@@ -222,7 +222,8 @@ public class ReminderActivity extends AppCompatActivity implements ReminderMetho
         thu.setOnClickListener(view -> thursday = daySelector(thu, thursday));
         fri.setOnClickListener(view -> friday = daySelector(fri, friday));
         sat.setOnClickListener(view -> saturday = daySelector(sat, saturday));
-        sun.setOnClickListener(view -> {if (!sunday){sun.setTextColor(getColor(R.color.custom_green));sunday = true;} else if (sunday){sun.setTextColor(getColor(R.color.red));sunday = false;}});
+        sun.setOnClickListener(view -> {if (!sunday){sun.setTextColor(getColor(R.color.custom_green));sunday = true;} else {sun.setTextColor(getColor(R.color.red));sunday = false;}
+        });
 
         Button setTime = reminderPopupView.findViewById(R.id.btn_reminder_set_time);
         setTime.setOnClickListener(view -> selectTime(setTime));
@@ -312,11 +313,10 @@ public class ReminderActivity extends AppCompatActivity implements ReminderMetho
             day.setTextColor(getColor(R.color.custom_green));
             return true;
         }
-        else if (con){
+        else {
             day.setTextColor(getColor(R.color.custom_grey));
             return false;
         }
-        return false;
     }
 
     private String getCurrentDate() {
@@ -334,7 +334,7 @@ public class ReminderActivity extends AppCompatActivity implements ReminderMetho
         int day = calendar.get(Calendar.DAY_OF_MONTH);
         String dt = (day) + "-" + (month + 1) + "-" + year;  // Start date
 
-        SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy");
+        SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy", Locale.getDefault());
         Calendar c = Calendar.getInstance();
         try {
             c.setTime(Objects.requireNonNull(sdf.parse(dt)));
@@ -342,7 +342,7 @@ public class ReminderActivity extends AppCompatActivity implements ReminderMetho
             e.printStackTrace();
         }
         c.add(Calendar.DATE, DaysToAdd);  // number of days to add, can also use Calendar.DAY_OF_MONTH in place of Calendar.DATE
-        SimpleDateFormat sdf1 = new SimpleDateFormat("dd-MM-yyyy");
+        SimpleDateFormat sdf1 = new SimpleDateFormat("dd-MM-yyyy", Locale.getDefault());
         return sdf1.format(c.getTime());
     }
 
@@ -427,7 +427,7 @@ public class ReminderActivity extends AppCompatActivity implements ReminderMetho
 
             String dateAndTime = date + " " + time;
 
-            DateFormat formatter = new SimpleDateFormat("dd-MM-yyyy kk:mm");
+            DateFormat formatter = new SimpleDateFormat("dd-MM-yyyy kk:mm", Locale.getDefault());
 
 
             Log.i(TAG, "setAlarms: DateAndTime = " + dateAndTime + " at Loop No. = "+ i);
@@ -565,7 +565,7 @@ public class ReminderActivity extends AppCompatActivity implements ReminderMetho
         time = time.trim();
 
         String dateAndTime = date + " " + time;
-        DateFormat formatter = new SimpleDateFormat("dd-MM-yyyy kk:mm");
+        DateFormat formatter = new SimpleDateFormat("dd-MM-yyyy kk:mm", Locale.getDefault());
         try {
             Date formattedDate = formatter.parse(dateAndTime);
 
